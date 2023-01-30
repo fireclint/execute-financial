@@ -1,8 +1,9 @@
 .about {
-    background-color: #f8f8f8;
+    background-color: black;
     margin: auto;
     padding: 8rem 1rem 0 1rem;
     width: 100%;
+    color: white;
 }
 
 .about .container {

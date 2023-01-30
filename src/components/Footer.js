@@ -13,15 +13,12 @@ const Footer = () => {
                         <a href='#about'>About</a>
                     </li>
                     <li className='nav-item'>
-                        <a href='#testimonials'>Testimonials</a>
-                    </li>
-                    <li className='nav-item'>
                         <a href='#demo'>Demo</a>
                     </li>
                 </ul>
                 <div className='bottom'>
                     <span className='line'></span>
-                    <p>2020 Execute, Inc. All rights reserved</p>
+                    <p>Maxint © 2022</p>
                 </div>
             </div>
         </div>

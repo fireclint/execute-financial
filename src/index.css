@@ -4,6 +4,7 @@
   --secondary-color: #ffea00;
   --secondary-dark:#e3d002;
   --overlay: rgba(0,0,0,.7);
+  background-color: black;
 }
 
 * {

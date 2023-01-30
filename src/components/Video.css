@@ -1,0 +1,54 @@
+/* .video-container{
+    margin: 0;
+    padding: 0;
+}
+
+.video-main{
+    width: 100%;
+    height: 100vh;
+}
+
+video{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.65);
+} */
+
+
+
+.app__video {
+    height: 100vh;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+}
+
+.app__video video{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.app__video-overlay {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0, 0.40);
+}
+
+.app__video-overlay_circle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid gold;
+    cursor: pointer;
+}

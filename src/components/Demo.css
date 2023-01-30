@@ -2,6 +2,8 @@
     margin: 5rem auto;
     padding: 1rem;
     width: 100%;
+    background-color: black;
+    color: white;
 }
 
 .demo .container {

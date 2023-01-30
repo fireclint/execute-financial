@@ -36,6 +36,7 @@
 .header .nav-item {
     padding: 1rem;
     font-weight: 500;
+    cursor: pointer;
 }
 
 .header .nav-item a:hover {
